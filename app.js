@@ -45,7 +45,7 @@ if (JSON.parse(localStorage.getItem('pvr')) != null) {
 } else {
     console.log("bye");
     pvr = [{
-        pvr: 'PVR Vegus',
+        pvr: 'PVR DATTAMSH',
         movie: 'Jawan',
         loc: 'Dwarka Sector 14, New Delhi',
         audi: 1,
@@ -68,7 +68,7 @@ if (JSON.parse(localStorage.getItem('pvr')) != null) {
         background: 'img/bg.png',
     },
     {
-        pvr: 'PVR Vegus',
+        pvr: 'PVR DATTAMSH',
         movie: 'Jawan',
         loc: 'Dwarka Sector 14, New Delhi',
         audi: 1,
@@ -91,7 +91,7 @@ if (JSON.parse(localStorage.getItem('pvr')) != null) {
         background: 'img/bg.png',
     },
     {
-        pvr: 'PVR Vegus',
+        pvr: 'PVR DATTAMSH',
         movie: 'Jawan',
         loc: 'Dwarka Sector 14, New Delhi',
         audi: 1,
@@ -114,7 +114,7 @@ if (JSON.parse(localStorage.getItem('pvr')) != null) {
         background: 'img/bg.png',
     },
     {
-        pvr: 'PVR Vegus',
+        pvr: 'PVR DATTAMSH',
         movie: 'Jawan',
         loc: 'Dwarka Sector 14, New Delhi',
         audi: 1,
@@ -137,7 +137,7 @@ if (JSON.parse(localStorage.getItem('pvr')) != null) {
         background: 'img/bg.png',
     },
     {
-        pvr: 'PVR Vegus',
+        pvr: 'PVR DATTAMSH',
         movie: 'Jawan',
         loc: 'Dwarka Sector 14, New Delhi',
         audi: 1,
@@ -160,7 +160,7 @@ if (JSON.parse(localStorage.getItem('pvr')) != null) {
         background: 'img/bg.png',
     },
     {
-        pvr: 'PVR Vegus',
+        pvr: 'PVR DATTAMSH',
         movie: 'Jawan',
         loc: 'Dwarka Sector 14, New Delhi',
         audi: 1,
@@ -183,7 +183,7 @@ if (JSON.parse(localStorage.getItem('pvr')) != null) {
         background: 'img/bg.png',
     },
     {
-        pvr: 'PVR Vegus',
+        pvr: 'PVR DATTAMSH',
         movie: 'Jawan',
         loc: 'Dwarka Sector 14, New Delhi',
         audi: 1,
@@ -205,7 +205,7 @@ if (JSON.parse(localStorage.getItem('pvr')) != null) {
         video: 'video/Jawan Official Trailer-(HDvideo9).mp4',
         background: 'img/bg.png',
     }, {
-        pvr: 'PVR Vegus',
+        pvr: 'PVR DATTAMSH',
         movie: 'Jawan',
         loc: 'Dwarka Sector 14, New Delhi',
         audi: 1,
@@ -228,7 +228,7 @@ if (JSON.parse(localStorage.getItem('pvr')) != null) {
         background: 'img/bg.png',
     },
     {
-        pvr: 'PVR Vegus',
+        pvr: 'PVR DATTAMSH',
         movie: 'Eesho',
         loc: 'Dwarka Sector 14, New Delhi',
         audi: 1,
@@ -251,7 +251,7 @@ if (JSON.parse(localStorage.getItem('pvr')) != null) {
         background: 'img/bg.png',
     },
     {
-        pvr: 'PVR Vegus',
+        pvr: 'PVR DATTAMSH',
         movie: 'Eesho',
         loc: 'Dwarka Sector 14, New Delhi',
         audi: 1,
@@ -274,7 +274,7 @@ if (JSON.parse(localStorage.getItem('pvr')) != null) {
         background: 'img/bg.png',
     },
     {
-        pvr: 'PVR Vegus',
+        pvr: 'PVR DATTAMSH',
         movie: 'Eesho',
         loc: 'Dwarka Sector 14, New Delhi',
         audi: 1,
@@ -297,7 +297,7 @@ if (JSON.parse(localStorage.getItem('pvr')) != null) {
         background: 'img/bg.png',
     },
     {
-        pvr: 'PVR Vegus',
+        pvr: 'PVR DATTAMSH',
         movie: 'Eesho',
         loc: 'Dwarka Sector 14, New Delhi',
         audi: 1,
@@ -320,7 +320,7 @@ if (JSON.parse(localStorage.getItem('pvr')) != null) {
         background: 'img/bg.png',
     },
     {
-        pvr: 'PVR Vegus',
+        pvr: 'PVR DATTAMSH',
         movie: 'Eesho',
         loc: 'Dwarka Sector 14, New Delhi',
         audi: 1,
@@ -342,7 +342,7 @@ if (JSON.parse(localStorage.getItem('pvr')) != null) {
         video: 'video/Eesho.mp4',
         background: 'img/bg.png',
     },{
-        pvr: 'PVR Vegus',
+        pvr: 'PVR DATTAMSH',
         movie: 'Gadar2',
         loc: 'Dwarka Sector 14, New Delhi',
         audi: 1,
@@ -365,7 +365,7 @@ if (JSON.parse(localStorage.getItem('pvr')) != null) {
         background: 'img/gadar_bg.jpg',
       },
       {
-        pvr: 'PVR Vegus',
+        pvr: 'PVR DATTAMSH',
         movie: 'Gadar2',
         loc: 'Dwarka Sector 14, New Delhi',
         audi: 1,
@@ -388,7 +388,7 @@ if (JSON.parse(localStorage.getItem('pvr')) != null) {
         background: 'img/gadar_bg.jpg',
       },
       {
-        pvr: 'PVR Vegus',
+        pvr: 'PVR DATTAMSH',
         movie: 'Gadar2',
         loc: 'Dwarka Sector 14, New Delhi',
         audi: 1,
@@ -411,7 +411,7 @@ if (JSON.parse(localStorage.getItem('pvr')) != null) {
         background: 'img/gadar_bg.jpg',
       },
       {
-        pvr: 'PVR Vegus',
+        pvr: 'PVR DATTAMSH',
         movie: 'Gadar2',
         loc: 'Dwarka Sector 14, New Delhi',
         audi: 1,
@@ -434,7 +434,7 @@ if (JSON.parse(localStorage.getItem('pvr')) != null) {
         background: 'img/gadar_bg.jpg',
       },
       {
-        pvr: 'PVR Vegus',
+        pvr: 'PVR DATTAMSH',
         movie: 'Gadar2',
         loc: 'Dwarka Sector 14, New Delhi',
         audi: 1,
@@ -456,7 +456,7 @@ if (JSON.parse(localStorage.getItem('pvr')) != null) {
         video: 'video/Gadar2 Official Trailer-(HDvideo9).mp4',
         background: 'img/gadar_bg.jpg',
       },{
-        pvr: 'PVR Vegus',
+        pvr: 'PVR DATTAMSH',
         movie: 'Jailer',
         loc: 'Dwarka Sector 14, New Delhi',
         audi: 1,
@@ -479,7 +479,7 @@ if (JSON.parse(localStorage.getItem('pvr')) != null) {
         background: 'img/bg.png',
       },
       {
-        pvr: 'PVR Vegus',
+        pvr: 'PVR DATTAMSH',
         movie: 'Jailer',
         loc: 'Dwarka Sector 14, New Delhi',
         audi: 1,
@@ -502,7 +502,7 @@ if (JSON.parse(localStorage.getItem('pvr')) != null) {
         background: 'img/bg.png',
       },
       {
-        pvr: 'PVR Vegus',
+        pvr: 'PVR DATTAMSH',
         movie: 'Jailer',
         loc: 'Dwarka Sector 14, New Delhi',
         audi: 1,
@@ -525,7 +525,7 @@ if (JSON.parse(localStorage.getItem('pvr')) != null) {
         background: 'img/bg.png',
       },
       {
-        pvr: 'PVR Vegus',
+        pvr: 'PVR DATTAMSH',
         movie: 'Jailer',
         loc: 'Dwarka Sector 14, New Delhi',
         audi: 1,
@@ -548,7 +548,7 @@ if (JSON.parse(localStorage.getItem('pvr')) != null) {
         background: 'img/bg.png',
       },
       {
-        pvr: 'PVR Vegus',
+        pvr: 'PVR DATTAMSH',
         movie: 'Jailer',
         loc: 'Dwarka Sector 14, New Delhi',
         audi: 1,
@@ -570,7 +570,7 @@ if (JSON.parse(localStorage.getItem('pvr')) != null) {
         video: 'video/Jailer.mp4',
         background: 'img/bg.png',
       },{
-        pvr: 'PVR Vegus',
+        pvr: 'PVR DATTAMSH',
         movie: 'Spiderman',
         loc: 'Dwarka Sector 14, New Delhi',
         audi: 1,
@@ -593,7 +593,7 @@ if (JSON.parse(localStorage.getItem('pvr')) != null) {
         background: 'img/bg.png',
       },
       {
-        pvr: 'PVR Vegus',
+        pvr: 'PVR DATTAMSH',
         movie: 'Spiderman',
         loc: 'Dwarka Sector 14, New Delhi',
         audi: 1,
@@ -616,7 +616,7 @@ if (JSON.parse(localStorage.getItem('pvr')) != null) {
         background: 'img/bg.png',
       },
       {
-        pvr: 'PVR Vegus',
+        pvr: 'PVR DATTAMSH',
         movie: 'Spiderman',
         loc: 'Dwarka Sector 14, New Delhi',
         audi: 1,
@@ -639,7 +639,7 @@ if (JSON.parse(localStorage.getItem('pvr')) != null) {
         background: 'img/bg.png',
       },
       {
-        pvr: 'PVR Vegus',
+        pvr: 'PVR DATTAMSH',
         movie: 'Spiderman',
         loc: 'Dwarka Sector 14, New Delhi',
         audi: 1,
@@ -662,7 +662,7 @@ if (JSON.parse(localStorage.getItem('pvr')) != null) {
         background: 'img/bg.png',
       },
       {
-        pvr: 'PVR Vegus',
+        pvr: 'PVR DATTAMSH',
         movie: 'Spiderman',
         loc: 'Dwarka Sector 14, New Delhi',
         audi: 1,
@@ -684,7 +684,7 @@ if (JSON.parse(localStorage.getItem('pvr')) != null) {
         video: 'video/Spiderman.mp4',
         background: 'img/bg.png',
       },{
-        pvr: 'PVR Vegus',
+        pvr: 'PVR DATTAMSH',
         movie: 'Eternals',
         loc: 'Dwarka Sector 14, New Delhi',
         audi: 1,
@@ -707,7 +707,7 @@ if (JSON.parse(localStorage.getItem('pvr')) != null) {
         background: 'img/bg.png',
       },
       {
-        pvr: 'PVR Vegus',
+        pvr: 'PVR DATTAMSH',
         movie: 'Eternals',
         loc: 'Dwarka Sector 14, New Delhi',
         audi: 1,
@@ -730,7 +730,7 @@ if (JSON.parse(localStorage.getItem('pvr')) != null) {
         background: 'img/bg.png',
       },
       {
-        pvr: 'PVR Vegus',
+        pvr: 'PVR DATTAMSH',
         movie: 'Eternals',
         loc: 'Dwarka Sector 14, New Delhi',
         audi: 1,
@@ -753,7 +753,7 @@ if (JSON.parse(localStorage.getItem('pvr')) != null) {
         background: 'img/bg.png',
       },
       {
-        pvr: 'PVR Vegus',
+        pvr: 'PVR DATTAMSH',
         movie: 'Eternals',
         loc: 'Dwarka Sector 14, New Delhi',
         audi: 1,
@@ -776,7 +776,7 @@ if (JSON.parse(localStorage.getItem('pvr')) != null) {
         background: 'img/bg.png',
       },
       {
-        pvr: 'PVR Vegus',
+        pvr: 'PVR DATTAMSH',
         movie: 'Eternals',
         loc: 'Dwarka Sector 14, New Delhi',
         audi: 1,
