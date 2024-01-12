@@ -1042,11 +1042,11 @@ function getTickets(auth) {
                         </div>
                         
                         <svg id="${seat_sr}${seat_no}barcode"></svg>
-                        <h5>VEGUS CINEMA</h5>
+                        <h5>DATTAMSH CINEMA</h5>
                     </div>
                     <div class="tic_details" style=" background: url(${data[0].background})no-repeat center -35px /cover">
                         <div class="type">4DX</div>
-                        <h5 class="pvr"><span>Vegus</span> Cinema</h5>
+                        <h5 class="pvr"><span>Dattamsh</span> Cinema</h5>
                         <h1>${url_segment[1]}</h1>
                         <div class="seat_det">
                             <div class="seat_cr">
