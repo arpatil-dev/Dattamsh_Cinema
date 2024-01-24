@@ -634,8 +634,8 @@ nav a {
   }
   
   .card-mycard:hover {
-    box-shadow: 0 8px 16px rgba(0, 0, 0, 0.5); /* Adjust the values for the hover effect */
-    transform: translateY(-5px); /* Optional: Add a slight lift on hover */
+    box-shadow: 0 8px 16px hwb(259 21% 45%); /* Adjust the values for the hover effect */
+    transform: translateY(-8px); /* Optional: Add a slight lift on hover */
   }
   
   .card-mycard img {
